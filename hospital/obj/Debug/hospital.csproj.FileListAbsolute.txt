@@ -1,0 +1,14 @@
+C:\Users\Tecnico\source\repos\hospital\hospital\bin\Debug\hospital.exe.config
+C:\Users\Tecnico\source\repos\hospital\hospital\bin\Debug\hospital.exe
+C:\Users\Tecnico\source\repos\hospital\hospital\bin\Debug\hospital.pdb
+C:\Users\Tecnico\source\repos\hospital\hospital\obj\Debug\hospital.csproj.AssemblyReference.cache
+C:\Users\Tecnico\source\repos\hospital\hospital\obj\Debug\hospital.csproj.CoreCompileInputs.cache
+C:\Users\Tecnico\source\repos\hospital\hospital\obj\Debug\hospital.exe
+C:\Users\Tecnico\source\repos\hospital\hospital\obj\Debug\hospital.pdb
+C:\Users\setze\OneDrive\Área de Trabalho\hospital\hospital\bin\Debug\hospital.exe.config
+C:\Users\setze\OneDrive\Área de Trabalho\hospital\hospital\bin\Debug\hospital.exe
+C:\Users\setze\OneDrive\Área de Trabalho\hospital\hospital\bin\Debug\hospital.pdb
+C:\Users\setze\OneDrive\Área de Trabalho\hospital\hospital\obj\Debug\hospital.csproj.AssemblyReference.cache
+C:\Users\setze\OneDrive\Área de Trabalho\hospital\hospital\obj\Debug\hospital.csproj.CoreCompileInputs.cache
+C:\Users\setze\OneDrive\Área de Trabalho\hospital\hospital\obj\Debug\hospital.exe
+C:\Users\setze\OneDrive\Área de Trabalho\hospital\hospital\obj\Debug\hospital.pdb
