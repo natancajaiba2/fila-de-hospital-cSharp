@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Paulo\\OneDrive\\\u00C1rea de Trabalho\\fila-de-hospital-cSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F60D8F58-BFE0-4FEF-8796-FC0DA5B11C9B}|hospital\\hospital.csproj|c:\\users\\paulo\\onedrive\\\u00E1rea de trabalho\\fila-de-hospital-csharp\\hospital\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F60D8F58-BFE0-4FEF-8796-FC0DA5B11C9B}|hospital\\hospital.csproj|solutionrelative:hospital\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Paulo\\OneDrive\\\u00C1rea de Trabalho\\fila-de-hospital-cSharp\\hospital\\Paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:hospital\\Paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F60D8F58-BFE0-4FEF-8796-FC0DA5B11C9B}|hospital\\hospital.csproj|C:\\Users\\Paulo\\OneDrive\\\u00C1rea de Trabalho\\fila-de-hospital-cSharp\\hospital\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F60D8F58-BFE0-4FEF-8796-FC0DA5B11C9B}|hospital\\hospital.csproj|solutionrelative:hospital\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Paulo\\OneDrive\\\u00C1rea de Trabalho\\fila-de-hospital-cSharp\\hospital\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:hospital\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Paciente.cs",
               "DocumentMoniker": "C:\\Users\\Paulo\\OneDrive\\\u00C1rea de Trabalho\\fila-de-hospital-cSharp\\hospital\\Paciente.cs",
               "RelativeDocumentMoniker": "hospital\\Paciente.cs",
               "ToolTip": "C:\\Users\\Paulo\\OneDrive\\\u00C1rea de Trabalho\\fila-de-hospital-cSharp\\hospital\\Paciente.cs",
               "RelativeToolTip": "hospital\\Paciente.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCMAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T22:28:08.558Z",
+              "WhenOpened": "2024-09-28T21:43:54.439Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Paulo\\OneDrive\\\u00C1rea de Trabalho\\fila-de-hospital-cSharp\\hospital\\Program.cs",
               "RelativeDocumentMoniker": "hospital\\Program.cs",
               "ToolTip": "C:\\Users\\Paulo\\OneDrive\\\u00C1rea de Trabalho\\fila-de-hospital-cSharp\\hospital\\Program.cs",
               "RelativeToolTip": "hospital\\Program.cs",
-              "ViewState": "AgIAAKMAAAAAAAAAAAAgwFcAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T22:27:18.514Z",
+              "WhenOpened": "2024-09-28T21:43:49.563Z",
               "EditorCaption": ""
             }
           ]

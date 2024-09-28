@@ -12,3 +12,10 @@ C:\Users\setze\OneDrive\Área de Trabalho\hospital\hospital\obj\Debug\hospital.c
 C:\Users\setze\OneDrive\Área de Trabalho\hospital\hospital\obj\Debug\hospital.csproj.CoreCompileInputs.cache
 C:\Users\setze\OneDrive\Área de Trabalho\hospital\hospital\obj\Debug\hospital.exe
 C:\Users\setze\OneDrive\Área de Trabalho\hospital\hospital\obj\Debug\hospital.pdb
+C:\Users\Paulo\OneDrive\Área de Trabalho\fila-de-hospital-cSharp\hospital\bin\Debug\hospital.exe.config
+C:\Users\Paulo\OneDrive\Área de Trabalho\fila-de-hospital-cSharp\hospital\bin\Debug\hospital.exe
+C:\Users\Paulo\OneDrive\Área de Trabalho\fila-de-hospital-cSharp\hospital\bin\Debug\hospital.pdb
+C:\Users\Paulo\OneDrive\Área de Trabalho\fila-de-hospital-cSharp\hospital\obj\Debug\hospital.csproj.AssemblyReference.cache
+C:\Users\Paulo\OneDrive\Área de Trabalho\fila-de-hospital-cSharp\hospital\obj\Debug\hospital.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\OneDrive\Área de Trabalho\fila-de-hospital-cSharp\hospital\obj\Debug\hospital.exe
+C:\Users\Paulo\OneDrive\Área de Trabalho\fila-de-hospital-cSharp\hospital\obj\Debug\hospital.pdb
